@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <h1>What's Up Netlify</h1>
+      <h1>What's Up Netlify Again</h1>
     </div>
   );
 }
